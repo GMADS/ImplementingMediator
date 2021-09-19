@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Área de Trabalho\Implementing Mediator\UsingMediator\UsingMediator\obj\Debug\net5.0\UsingMediator.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Implementing Mediator\UsingMediator\UsingMediator\obj\Debug\net5.0\UsingMediator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Área de Trabalho\Implementing Mediator\UsingMediator\UsingMediator\obj\Debug\net5.0\UsingMediator.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Implementing Mediator\UsingMediator\UsingMediator\obj\Debug\net5.0\UsingMediator.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Implementing Mediator\UsingMediator\UsingMediator\obj\Debug\net5.0\UsingMediator.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Área de Trabalho\Implementing Mediator\UsingMediator\UsingMediator\obj\Debug\net5.0\UsingMediator.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\guilh\OneDrive\Área de Trabalho\Implementing Mediator\UsingMediator\UsingMediator\obj\Debug\net5.0\UsingMediator.MvcApplicationPartsAssemblyInfo.cache
